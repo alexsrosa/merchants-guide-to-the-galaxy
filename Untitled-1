@@ -1,0 +1,31 @@
+
+
+Solução em Java:
+- design da solução
+- legibilidade
+- facilidade de evolução e manutenção da aplicação
+- testes automatizados / uso de boas práticas de agilidade
+- operacionalidade
+- arquitetura da aplicação
+
+Bibliotecas utilizadas:
+ - JUnit
+ - Gradle
+
+Restrições/premissas:
+ - Não enviar arquivos executaveis: .exe, .lib, .jar, .class;
+ - Submeta todos os arquivos da sua solução dentro de um arquivo zip.
+ - Enviar para: https://app.greenhouse.io/tests/f9d613231a1d281de0561a539e864e1a
+ - Escolha apenas um dos três problemas e envie dentro do prazo concordado.
+
+Documentação:
+ Encaminhe uma breve descrição do design e suposições junto com o seu código, 
+ detalhes de implementação e arquitetura, bem como as instruções detalhadas de como rodar sua aplicação.
+
+Introdução aos problemas:   
+
+A aplicação deve ler os dados de entrada através da entrada padrão (standard input)
+A aplicação não deve possuir interface gráfica, ela deverá ser executada somente por linha de comando
+A saída da aplicação deve escrever na saída padrão (standard output)
+O código deve executar
+Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona utilizando os dados de teste que são fornecidos
